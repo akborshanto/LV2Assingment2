@@ -2,16 +2,16 @@
 
 ## Objective
 
-The **Stationery Shop API** is a comprehensive backend solution for managing a stationery store. Built with **Node.js**, **Express**, **TypeScript**, and **MongoDB**, it enables efficient management of products and orders with robust validation and error handling .
+The **Baicycle Product API** is a comprehensive backend solution for managing a Baicycle store. Built with **Node.js**, **Express**, **TypeScript**, and **MongoDB**, it enables efficient management of products and orders with robust validation and error handling .
 
 ---
 
 ## Features
 
-### 1. **Stationery Product Management**
+### 1. **Baicycle Product Management**
 
-- **Create Products**: Add new stationery items with detailed attributes like name, brand, price, category, description, quantity, and stock status.
-- **Retrieve All Products**: Fetch all available stationery products or filter them by search terms (name, brand, or category).
+- **Create Products**: Add new Baicycle items with detailed attributes like name, brand, price, category, description, quantity, and stock status.
+- **Retrieve All Products**: Fetch all available Baicycle products or filter them by search terms (name, brand, or category).
 - **Retrieve a Specific Product**: View the details of any product by its unique ID.
 - **Update Products**: Modify specific attributes of a product, such as price or quantity.
 - **Delete Products**: Remove products from the inventory.
