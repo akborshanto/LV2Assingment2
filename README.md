@@ -1,4 +1,4 @@
-# [ScribeStation](https://scribestation.vercel.app/) API Documentation
+# [ScribeStation](https://akbor-vai-assainment.vercel.app/) API Documentation
 
 ## Objective
 
